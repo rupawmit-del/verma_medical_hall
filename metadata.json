@@ -1,0 +1,6 @@
+{
+  "name": "Verma Medical Hall",
+  "description": "Verma Medical Hall - Trusted Medical Store & Pharmacy for genuine medicines, surgical supplies, and healthcare essentials in Bihar Sharif, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
